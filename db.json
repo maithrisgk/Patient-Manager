@@ -1,0 +1,24 @@
+{
+  "patients": [
+    {
+      "id": 2,
+      "name": "Mary Shah",
+      "attended": true
+    },
+    {
+      "id": 3,
+      "name": "Smith Jacob",
+      "attended": false
+    },
+    {
+      "id": "9643e02a-240e-4e91-ba48-d73930faa71a",
+      "name": "John Soltis",
+      "attended": false
+    },
+    {
+      "id": "fcc5507c-8218-40ce-b966-dc89e1609967",
+      "name": "Mary Kom",
+      "attended": false
+    }
+  ]
+}
