@@ -9,4 +9,4 @@ Whenever a patient enters the clinic, the front office person can enter the deta
 The checkbox beside the patient name, is used to toggle the "line through" CSS styling.  This is done to make a note on whether the patient has been attended by a doctor or is yet to be attended.
 The red round button with an 'x', is clicked to delete a patient entry from the list.
 
-The JSON-Server is used to create a sample api "db.json" and the "axios js" is used to handle HTTP Requests. 
+The JSON-Server is used to create a sample api "db.json" and the "axios js" is used to handle HTTP Requests.  The id is generated dynamically at runtime using UUID version 4. 
